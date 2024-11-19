@@ -1,12 +1,12 @@
 import React from 'react'
-import Service from './Componenets/Service'
-import Servicetwo from './Componenets/Servicetwo'
-import Portfolio from './Componenets/Portfolio'
-import Footer from './Componenets/Footer'
-import Hero from './Componenets/Hero'
-import Intro from './Componenets/Intro'
-import Contact from './Componenets/Contact'
-import Navbar from './Componenets/Navbar'
+import Service from './Components/Service'
+import Servicetwo from './Components/Servicetwo'
+import Portfolio from './Components/Portfolio'
+import Footer from './Components/Footer'
+import Hero from './Components/Hero'
+import Intro from './Components/Intro'
+import Contact from './Components/Contact'
+import Navbar from './Components/Navbar'
 
 
 const App = () => {
