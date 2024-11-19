@@ -49,7 +49,7 @@ const Contact = () => {
 
         <div className='flex flex-col md:flex-row gap-5 mt-[50px]'>
             <div className='md:w-1/2'>
-            <iframe className='rounded-lg' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115329.73968972088!2d55.44354760103535!3d25.402990738614267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5764dd8fbe79%3A0xcda090de6445a819!2sAjman%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sbd!4v1730948221590!5m2!1sen!2sbd" width="600" height="450" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+            <iframe className='rounded-lg' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115329.73968972088!2d55.44354760103535!3d25.402990738614267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5764dd8fbe79%3A0xcda090de6445a819!2sAjman%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sbd!4v1730948221590!5m2!1sen!2sbd" title='Map showing the residence' width="600" height="450" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
             <div className='md:w-1/2'>
